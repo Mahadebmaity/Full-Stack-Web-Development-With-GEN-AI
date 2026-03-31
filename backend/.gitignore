@@ -1,0 +1,9 @@
+This is a .gitignore file for the backend of the Full Stack Web Development with GEN AI project. It specifies files and directories that should be ignored by Git when committing changes to the repository.
+# Ignore node_modules directory
+node_modules/
+# Ignore log files
+*.log
+# Ignore environment variable files
+.env
+*.node_modules
+*.txt
