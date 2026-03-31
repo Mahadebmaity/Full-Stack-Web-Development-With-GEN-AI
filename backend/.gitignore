@@ -6,4 +6,8 @@ node_modules/
 # Ignore environment variable files
 .env
 *.node_modules
-*.txt
+importantnotes.txt
+
+
+
+
