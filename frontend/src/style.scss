@@ -1,0 +1,18 @@
+@use "./style/button.scss";
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body,
+#root {
+    height: 100%;
+    width: 100%;
+    font-family: 'Comic Sans MS';
+    background-color: #000;
+    // background-color: white;
+    color: whitesmoke;
+}
