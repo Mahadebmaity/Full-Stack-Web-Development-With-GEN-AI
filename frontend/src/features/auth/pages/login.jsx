@@ -24,7 +24,7 @@ const login = () => {
                     </div>
                     <button className='button primary-button' type='submit'>Login</button>
                 </form>
-                <p>Already have an account? <Link to={"/register"}>Register</Link></p>
+                <p>Don't have an account? <Link to={"/register"}>Register</Link></p>
             </div>
         </main> 
     )
